@@ -1,0 +1,82 @@
+{
+  "lacque": {
+    "business_name": "Lacqué Nail Atelier",
+    "tagline": "Hand-painted nail art, crafted with love in the heart of the city.",
+    "area": "Indiranagar, Bangalore",
+    "address": "100 Feet Road, Indiranagar, Bengaluru, Karnataka 560038",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "phone_number": "+91 98765 43210",
+    "whatsapp_number": "919876543210",
+    "email": "hello@lacque.studio",
+    "instagram_handle": "lacque.atelier",
+    "google_maps_url": "https://maps.google.com/?q=Indiranagar+Bangalore",
+    "google_rating": "4.9",
+    "review_count": "180",
+    "operating_hours": "Tue–Sun · 10:30 AM – 8:00 PM · Closed Mondays",
+    "has_owner_info": true,
+    "owner_name": "Ananya Rao",
+    "owner_initials": "AR",
+    "owner_bio": "A self-taught nail artist with a soft spot for pastels, tiny florals, and anything with a little sparkle. Every set is a tiny canvas — I pour my heart into each one.",
+    "services": [
+      { "name": "Classic Manicure", "price_from": "₹600" },
+      { "name": "Gel Extensions", "price_from": "₹1,800" },
+      { "name": "Hand-Painted Nail Art", "price_from": "₹2,500" },
+      { "name": "Chrome & Glitter Finish", "price_from": "₹1,200" },
+      { "name": "Bridal Nail Set", "price_from": "₹4,500" },
+      { "name": "Nail Spa & Repair", "price_from": "₹900" }
+    ],
+    "pricing_disclaimer": "Prices are starting points — final pricing depends on length & design.",
+    "hero_image_url": "https://images.pexels.com/photos/7664093/pexels-photo-7664093.jpeg?auto=compress&cs=tinysrgb&h=900&w=1200",
+    "gallery_images": [
+      "https://images.pexels.com/photos/939835/pexels-photo-939835.jpeg?auto=compress&cs=tinysrgb&h=800&w=800",
+      "https://images.pexels.com/photos/36655811/pexels-photo-36655811.jpeg?auto=compress&cs=tinysrgb&h=800&w=800",
+      "https://images.pexels.com/photos/34835287/pexels-photo-34835287.jpeg?auto=compress&cs=tinysrgb&h=800&w=800",
+      "https://images.pexels.com/photos/939834/pexels-photo-939834.jpeg?auto=compress&cs=tinysrgb&h=800&w=800",
+      "https://images.pexels.com/photos/4662171/pexels-photo-4662171.jpeg?auto=compress&cs=tinysrgb&h=800&w=800",
+      "https://images.pexels.com/photos/7256116/pexels-photo-7256116.jpeg?auto=compress&cs=tinysrgb&h=800&w=800",
+      "https://images.pexels.com/photos/7615877/pexels-photo-7615877.jpeg?auto=compress&cs=tinysrgb&h=800&w=800",
+      "https://images.pexels.com/photos/6446791/pexels-photo-6446791.jpeg?auto=compress&cs=tinysrgb&h=800&w=800"
+    ]
+  },
+  "fly": {
+    "business_name": "Fly Nail Care Nail Art Studio & Academy",
+    "tagline": "A unique & one of a kind nail studio, crafting fantastic nails with extraordinary nail art techniques.",
+    "area": "Ashok Nagar, New Delhi",
+    "address": "Shop No. 3, Tota Ram, 44/1, Totaram Ahuja Marg, Block 44, Ashok Nagar, New Delhi, Delhi 110018",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "phone_number": "+91 82855 80039",
+    "whatsapp_number": "918285580039",
+    "email": "",
+    "instagram_handle": "flynailcare",
+    "google_maps_url": "https://maps.google.com/?q=Fly+Nail+Care+Nail+Art+Studio+Academy+Ashok+Nagar+New+Delhi",
+    "google_rating": "4.9",
+    "review_count": "313",
+    "operating_hours": "",
+    "has_owner_info": false,
+    "owner_name": "",
+    "owner_initials": "",
+    "owner_bio": "",
+    "services": [
+      { "name": "Classic Manicure", "price_from": "₹600" },
+      { "name": "Gel Extensions", "price_from": "₹1,800" },
+      { "name": "Hand-Painted Nail Art", "price_from": "₹2,500" },
+      { "name": "Chrome & Glitter Finish", "price_from": "₹1,200" },
+      { "name": "Bridal Nail Set", "price_from": "₹4,500" },
+      { "name": "Nail Spa & Repair", "price_from": "₹900" }
+    ],
+    "pricing_disclaimer": "Prices vary by service and design — please contact us for exact pricing.",
+    "hero_image_url": "https://images.pexels.com/photos/7664093/pexels-photo-7664093.jpeg?auto=compress&cs=tinysrgb&h=900&w=1200",
+    "gallery_images": [
+      "https://images.pexels.com/photos/939835/pexels-photo-939835.jpeg?auto=compress&cs=tinysrgb&h=800&w=800",
+      "https://images.pexels.com/photos/36655811/pexels-photo-36655811.jpeg?auto=compress&cs=tinysrgb&h=800&w=800",
+      "https://images.pexels.com/photos/34835287/pexels-photo-34835287.jpeg?auto=compress&cs=tinysrgb&h=800&w=800",
+      "https://images.pexels.com/photos/939834/pexels-photo-939834.jpeg?auto=compress&cs=tinysrgb&h=800&w=800",
+      "https://images.pexels.com/photos/4662171/pexels-photo-4662171.jpeg?auto=compress&cs=tinysrgb&h=800&w=800",
+      "https://images.pexels.com/photos/7256116/pexels-photo-7256116.jpeg?auto=compress&cs=tinysrgb&h=800&w=800",
+      "https://images.pexels.com/photos/7615877/pexels-photo-7615877.jpeg?auto=compress&cs=tinysrgb&h=800&w=800",
+      "https://images.pexels.com/photos/6446791/pexels-photo-6446791.jpeg?auto=compress&cs=tinysrgb&h=800&w=800"
+    ]
+  }
+}
