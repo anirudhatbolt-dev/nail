@@ -78,5 +78,45 @@
       "https://images.pexels.com/photos/7615877/pexels-photo-7615877.jpeg?auto=compress&cs=tinysrgb&h=800&w=800",
       "https://images.pexels.com/photos/6446791/pexels-photo-6446791.jpeg?auto=compress&cs=tinysrgb&h=800&w=800"
     ]
+  },
+  "shikha": {
+    "business_name": "Shikha Nails Art Studio",
+    "tagline": "",
+    "area": "Mahavir Enclave, New Delhi",
+    "address": "B22, Rz-3, Gurudwara Road, Mahavir Enclave I, Sitapuri Part 1, Mahavir Enclave, New Delhi, Delhi 110045",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "phone_number": "+91 99903 59598",
+    "whatsapp_number": "919990359598",
+    "email": "",
+    "instagram_handle": "shikhanailsartstudio",
+    "google_maps_url": "https://maps.google.com/?q=Shikha+Nails+Art+Studio+Mahavir+Enclave+New+Delhi",
+    "google_rating": "5.0",
+    "review_count": "176",
+    "operating_hours": "",
+    "has_owner_info": false,
+    "owner_name": "",
+    "owner_initials": "",
+    "owner_bio": "",
+    "services": [
+      { "name": "Classic Manicure", "price_from": "₹600" },
+      { "name": "Gel Extensions", "price_from": "₹1,800" },
+      { "name": "Hand-Painted Nail Art", "price_from": "₹2,500" },
+      { "name": "Chrome & Glitter Finish", "price_from": "₹1,200" },
+      { "name": "Bridal Nail Set", "price_from": "₹4,500" },
+      { "name": "Nail Spa & Repair", "price_from": "₹900" }
+    ],
+    "pricing_disclaimer": "Prices vary by service and design — please contact us for exact pricing.",
+    "hero_image_url": "https://images.pexels.com/photos/7664093/pexels-photo-7664093.jpeg?auto=compress&cs=tinysrgb&h=900&w=1200",
+    "gallery_images": [
+      "https://images.pexels.com/photos/939835/pexels-photo-939835.jpeg?auto=compress&cs=tinysrgb&h=800&w=800",
+      "https://images.pexels.com/photos/36655811/pexels-photo-36655811.jpeg?auto=compress&cs=tinysrgb&h=800&w=800",
+      "https://images.pexels.com/photos/34835287/pexels-photo-34835287.jpeg?auto=compress&cs=tinysrgb&h=800&w=800",
+      "https://images.pexels.com/photos/939834/pexels-photo-939834.jpeg?auto=compress&cs=tinysrgb&h=800&w=800",
+      "https://images.pexels.com/photos/4662171/pexels-photo-4662171.jpeg?auto=compress&cs=tinysrgb&h=800&w=800",
+      "https://images.pexels.com/photos/7256116/pexels-photo-7256116.jpeg?auto=compress&cs=tinysrgb&h=800&w=800",
+      "https://images.pexels.com/photos/7615877/pexels-photo-7615877.jpeg?auto=compress&cs=tinysrgb&h=800&w=800",
+      "https://images.pexels.com/photos/6446791/pexels-photo-6446791.jpeg?auto=compress&cs=tinysrgb&h=800&w=800"
+    ]
   }
 }
